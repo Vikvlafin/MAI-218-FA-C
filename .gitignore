@@ -1,0 +1,7 @@
+build/
+TASK_CHECKPOINT.md
+*.exe
+*.o
+__pycache__/
+core
+core.*
